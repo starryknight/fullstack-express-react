@@ -28,7 +28,7 @@ CD into bin
 
 Then give your self execute permissions. 
 
-```chomd 755 express.sh```
+```chmod 755 express.sh```
 
 Then you will be ready to go!
 
